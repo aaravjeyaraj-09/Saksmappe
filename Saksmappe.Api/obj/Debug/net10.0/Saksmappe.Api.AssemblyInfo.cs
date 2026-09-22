@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Saksmappe.Api")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b62bc23ff0fade1ba8f03f56fef726efa6eedf58")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ac2a886c1866fbb7b683f61ad8a4906e7033d138")]
 [assembly: System.Reflection.AssemblyProductAttribute("Saksmappe.Api")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Saksmappe.Api")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
